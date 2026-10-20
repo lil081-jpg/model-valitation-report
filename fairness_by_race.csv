@@ -1,0 +1,6 @@
+race,n,selection_rate (>50K),TPR,FPR,AUC
+Amer-Indian-Eskimo,73,0.082,0.444,0.031,0.892
+Asian-Pac-Islander,200,0.245,0.635,0.108,0.874
+Black,662,0.107,0.591,0.028,0.935
+Other,45,0.067,0.75,0.0,1.0
+White,5533,0.222,0.64,0.08,0.905
